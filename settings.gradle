@@ -1,0 +1,2 @@
+rootProject.name='GISMapsAndroid'
+include ':app'
